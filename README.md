@@ -1,1 +1,1 @@
-# Student-marks-management
+# ScholarEase - Student marks management system.
